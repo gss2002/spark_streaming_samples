@@ -1,0 +1,5 @@
+org/apache/spark/streaming/example/ReadMQStream.class
+org/apache/spark/streaming/example/ReadMQStream$1.class
+org/apache/spark/streaming/example/SparkProcessStreaming.class
+org/apache/spark/streaming/utils/SparkCredentialProvider.class
+org/apache/spark/streaming/utils/SparkStreamingParser.class
